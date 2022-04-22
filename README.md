@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hiqutap
+- 👋 Hi, I’m @fandog
 - 👀 I’m interested
 - 🌱 I’m currently learning
 - 💞️ I’m looking
