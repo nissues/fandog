@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fandog
+- 👋 Hi
 - 👀 I’m interested
 - 🌱 I’m currently learning
 - 💞️ I’m looking
